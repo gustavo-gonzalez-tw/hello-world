@@ -43,4 +43,4 @@ workflows:
       - one
       - two:
           requires:
-            - on
+            - one
